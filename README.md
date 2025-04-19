@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final Year B.Tech CSE Student | 💼 GencNext Intern at Cognizant<br><br>I am passionate about programming, problem-solving, and full-stack development. I enjoy working with JavaScript, C++, Node.js, Express, PostgreSQL, and exploring new technologies.<br><br>💡 Always eager to learn and build impactful projects!<br><br><br>
+🎓 Final Year B.Tech CSE Student | 💼 GencNext Intern at Cognizant<br><br>I am passionate about programming, problem-solving, and full-stack development. I enjoy working with JavaScript, C++, Node.js, Express, PostgreSQL, C#, .NET and exploring new technologies.<br><br>💡 Always eager to learn and build impactful projects!<br><br><br>
 
 
 ## 🌐 Socials:
